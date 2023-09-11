@@ -1,0 +1,8 @@
+.raridade-normal{
+    background-color:  lightgreen;
+}
+
+.card-pokemon{
+    display: inline-block;
+    width: 25%;
+}
